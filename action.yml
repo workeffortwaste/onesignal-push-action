@@ -4,7 +4,7 @@ inputs:
   title:
     description: 'Message title'
     required: true
-  content:
+  message:
     description: 'Message content'
     required: true 
   rest-api-key:
